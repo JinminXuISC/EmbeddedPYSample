@@ -1,0 +1,7 @@
+{
+    "objectscript.conn": {
+        "server": "irishealth20221",
+        "ns": "PYTHONLEARN",
+        "active": true
+    }
+}
